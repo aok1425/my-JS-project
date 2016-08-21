@@ -21,7 +21,7 @@
 #### Learn JS for front-end
 - [ ] commit some app that shows you know the material **($100)**
 
-#### Learn Python or Ruby for back-end **($100)**
+#### Learn Python or Ruby (or Express.js?) for back-end **($100)**
 - [ ] chat with Henry to get a better idea which one to use
 
 #### Create "Hello, World" website **($230)**
