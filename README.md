@@ -19,9 +19,16 @@
 - [ ] decide on content
 
 #### Learn JS for front-end
+- some JS learning resources:
+  - http://www.theodinproject.com/javascript-and-jquery
+  - https://www.codeschool.com/courses/javascript-road-trip-part-1
+  - https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.tequmir0f
+  - https://medium.com/javascript-scene/learn-javascript-b631a4af11f2#.2x8v367y9
+  - Henry might know which of the resources mentioned are best
+  - I can give a $500 allowance on books. Just lmk which ones you buy.
 - [ ] commit some app that shows you know the material **($100)**
 
-#### Learn Python or Ruby (or Express.js?) for back-end **($100)**
+#### Learn Python or Ruby on Rails or Ruby + Sinatra or Express.js for back-end **($100)**
 - [ ] chat with Henry to get a better idea which one to use
 
 #### Create "Hello, World" website **($230)**
