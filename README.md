@@ -17,6 +17,9 @@
 
 #### Decide collaboratively what website you want to build out
 - [ ] decide on content
+  - a site with static content is fine for your first website
+  - ideally it provides some kind of functionality, solves some problem for the end-user
+    - see examples here: https://hackbrightacademy.com/blog/29-web-apps-created-in-4-weeks-by-hackbright-academys-spring-2015-software-engineers/
 
 #### Learn JS for front-end
 - some JS learning resources:
