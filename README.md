@@ -20,6 +20,7 @@
 
 #### Learn JS for front-end
 - some JS learning resources:
+  - https://sivers.org/learn-js
   - http://www.theodinproject.com/javascript-and-jquery
   - https://www.codeschool.com/courses/javascript-road-trip-part-1
   - https://medium.com/@_cmdv_/i-want-to-learn-javascript-in-2015-e96cd85ad225#.tequmir0f
