@@ -15,9 +15,6 @@
   - https://help.github.com/articles/creating-a-pull-request/
 - [ ] we have the Sunday phone call
 
-
-making a change. something something that should be a merge conflict.
-
 #### Decide collaboratively what website you want to build out
 - [ ] decide on content
   - a site with static content is fine for your first website
@@ -40,4 +37,3 @@ making a change. something something that should be a merge conflict.
 
 #### Create "Hello, World" website **($230)**
 - [ ] commit that website to this repo
-
