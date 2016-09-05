@@ -15,6 +15,9 @@
   - https://help.github.com/articles/creating-a-pull-request/
 - [ ] we have the Sunday phone call
 
+
+making a change
+
 #### Decide collaboratively what website you want to build out
 - [ ] decide on content
   - a site with static content is fine for your first website
