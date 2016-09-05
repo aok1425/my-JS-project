@@ -16,7 +16,7 @@
 - [ ] we have the Sunday phone call
 
 
-making a change
+making a change. something something that should be a merge conflict.
 
 #### Decide collaboratively what website you want to build out
 - [ ] decide on content
