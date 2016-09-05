@@ -2,10 +2,10 @@
 
 #### First step
 - [x] you are reading this
-- [ ] email Alex your GitHub username so he can grant you push access to this repository **($10)**
+- [x] email Alex your GitHub username so he can grant you push access to this repository **($10)**
 
 #### Install bash on Windows
-- [ ] install bash on Windows (https://msdn.microsoft.com/commandline/wsl/install_guide) **($10)**
+- [x] install bash on Windows (https://msdn.microsoft.com/commandline/wsl/install_guide) **($10)**
 
 #### Learn git basics, commit to this repository
 - [ ] check off this box to the left and the ones above, commit *via command line, not GUI/website* **($50)**
