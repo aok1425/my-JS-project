@@ -8,12 +8,12 @@
 - [x] install bash on Windows (https://msdn.microsoft.com/commandline/wsl/install_guide) **($10)**
 
 #### Learn git basics, commit to this repository
-- [ ] check off this box to the left and the ones above, commit *via command line, not GUI/website* **($50)**
+- [x] check off this box to the left and the ones above, commit *via command line, not GUI/website* **($50)**
   - read about pull requests, git, via YouTube, search on news.ycombinator.com, Google search
   - https://help.github.com
   - http://try.github.com/
   - https://help.github.com/articles/creating-a-pull-request/
-- [ ] we have the Sunday phone call
+- [x] we have the Sunday phone call
 
 #### Decide collaboratively what website you want to build out
 - [ ] decide on content
