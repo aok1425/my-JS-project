@@ -1,23 +1,19 @@
 # Steps
 
-#### First step
-- [x] you are reading this
-- [x] email Alex your GitHub username so he can grant you push access to this repository **($10)**
+#### Next steps
+- [ ] skim the resources in the 2 sections below to get a broad overview of what you'll learn next. then read the interesting bits.
+- [ ] set specific, manageable goals for the end of the week, and fill out the section below
 
-#### Install bash on Windows
-- [x] install bash on Windows (https://msdn.microsoft.com/commandline/wsl/install_guide) **($10)**
-
-#### Learn git basics, commit to this repository
-- [x] check off this box to the left and the ones above, commit *via command line, not GUI/website* **($50)**
-  - read about pull requests, git, via YouTube, search on news.ycombinator.com, Google search
-  - https://help.github.com
-  - http://try.github.com/
-  - https://help.github.com/articles/creating-a-pull-request/
-- [x] we have the Sunday phone call
+#### Next week goals (to finish by YY/YY/YYYY):
+- [ ] goal 1 (e.g. go through chapters X, Y, Z in book A)
+- [ ] goal 2
+- [ ] goal 3
 
 #### Decide collaboratively what website you want to build out
 - [ ] decide on content
   - a site with static content is fine for your first website
+    - one idea is a single-page application with each Smite character like a baseball card that you can flip around, telling its stats, etc.
+    - you can also have the card contents be automatically filled out by pulling from some API, or in a more time-consuming method, by scraping the contents off of a site and putting it into a database.
   - ideally it provides some kind of functionality, solves some problem for the end-user
     - see examples here: https://hackbrightacademy.com/blog/29-web-apps-created-in-4-weeks-by-hackbright-academys-spring-2015-software-engineers/
 
