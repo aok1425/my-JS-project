@@ -1,11 +1,11 @@
 # Steps
 
 #### Next steps
-- [ ] skim the resources in the 2 sections below to get a broad overview of what you'll learn next. then read the interesting bits.
-- [ ] set specific, manageable goals for the end of the week, and fill out the section below
+- [X] skim the resources in the 2 sections below to get a broad overview of what you'll learn next. then read the interesting bits.
+- [X] set specific, manageable goals for the end of the week, and fill out the section below
 
 #### Next week goals (to finish by YY/YY/YYYY):
-- [ ] goal 1 (e.g. go through chapters X, Y, Z in book A)
+- [ ] goal 1: finish code academy by monday 9/11 (e.g. go through chapters X, Y, Z in book A)
 - [ ] goal 2
 - [ ] goal 3
 
