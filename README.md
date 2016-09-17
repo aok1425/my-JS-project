@@ -1,21 +1,13 @@
 # Steps
 
 #### Next steps
-- [X] skim the resources in the 2 sections below to get a broad overview of what you'll learn next. then read the interesting bits.
-- [X] set specific, manageable goals for the end of the week, and fill out the section below
+- [ ] read through the 5 JS learning resources to decide your learning roadmap in order to "know" front-end JS well enough
+- [ ] set specific, achievable, ambitious goals by next wk's status update, and fill out below
 
-#### Next week goals (to finish by YY/YY/YYYY):
-- [ ] goal 1: finish code academy by monday 9/11 (e.g. go through chapters X, Y, Z in book A)
-- [ ] goal 2
+#### Goals to finish by next wk's status update:
+- [ ] goal 1: (e.g. go through sections X, Y, Z in Free Code Camp)
+- [ ] goal 2  (e.g. go through chapters 1-5 in HTML5 Head Start book)
 - [ ] goal 3
-
-#### Decide collaboratively what website you want to build out
-- [ ] decide on content
-  - a site with static content is fine for your first website
-    - one idea is a single-page application with each Smite character like a baseball card that you can flip around, telling its stats, etc.
-    - you can also have the card contents be automatically filled out by pulling from some API, or in a more time-consuming method, by scraping the contents off of a site and putting it into a database.
-  - ideally it provides some kind of functionality, solves some problem for the end-user
-    - see examples here: https://hackbrightacademy.com/blog/29-web-apps-created-in-4-weeks-by-hackbright-academys-spring-2015-software-engineers/
 
 #### Learn JS for front-end
 - some JS learning resources:
@@ -27,6 +19,15 @@
   - Henry might know which of the resources mentioned are best
   - I can give a $500 allowance on books. Just lmk which ones you buy.
 - [ ] commit some app that shows you know the material **($100)**
+
+#### Decide collaboratively what website you want to build out
+(You don't need to decide on your webapp now, since it will take a while to learn the JS "well-enough", so I'm moving this section down.)
+- [ ] decide on content
+  - a site with static content is fine for your first website
+    - one idea is a single-page application with each Smite character like a baseball card that you can flip around, telling its stats, etc.
+    - you can also have the card contents be automatically filled out by pulling from some API, or in a more time-consuming method, by scraping the contents off of a site and putting it into a database.
+  - ideally it provides some kind of functionality, solves some problem for the end-user
+    - see examples here: https://hackbrightacademy.com/blog/29-web-apps-created-in-4-weeks-by-hackbright-academys-spring-2015-software-engineers/
 
 #### Learn Python or Ruby on Rails or Ruby + Sinatra or Express.js for back-end **($100)**
 - [ ] chat with Henry to get a better idea which one to use
