@@ -4,12 +4,10 @@
 - [x] read through the 5 JS learning resources to decide your learning roadmap in order to "know" front-end JS well enough
 - [x] set specific, achievable, ambitious goals by next wk's status update, and fill out below
 
-
-#### Next week goals (to finish by YY/YY/YYYY):
-- [x] goal 1: finish code academy by monday 9/11 (e.g. go through chapters X, Y, Z in book A)
-- [ ] goal 2: finish front end cert from freecode camp 9/22
->>>>>>> added second goal
-- [ ] goal 3
+#### Next week goals (to finish by Fri 9/23):
+- [x] goal 1: finish front end cert from freecode camp 9/22
+- [ ] goal 2: 
+- [ ] goal 3:
 
 #### Learn JS for front-end
 - some JS learning resources:
